@@ -87,7 +87,3 @@ Contains the `main()` method for interacting with the queue. Includes:
 - **Nattikorn Sae-sue**
   - **Email**: nattikorn_s@cmu.ac.th
   - **Student ID**: 672115014
-
---- 
-
-Let me know if you'd like any changes or additions!
