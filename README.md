@@ -1,6 +1,3 @@
-Here's a suggested README file for your program:
-
----
 
 # Queue Implementation and Program Interaction
 
